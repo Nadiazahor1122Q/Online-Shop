@@ -1,0 +1,98 @@
+
+
+body{
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  background-color: "#131128";
+  background-color: #131128;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.carusal {
+  width: 100%;
+  padding: 0px 0px 40px 0px;
+}
+#img{
+       width:190px;
+        margin-left:116px;
+       margin-top:11px;
+       position: absolute;
+
+}
+.Navbar {
+  padding: 7vh 2% 3vh;
+  position: sticky;
+  top: 0px;
+  z-index: 2;
+  max-width: 1440px;
+  margin: auto;
+  color: #fff;
+}
+
+.spinner {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+
+.spinner span {
+  font-size: 2rem;
+  animation: fade 1s linear 0s infinite;
+  padding-right: 1rem;
+}
+
+.half-spinner {
+  /* width: 50px;
+  height: 50px;
+  justify-content: center;
+  text-align: center;
+  border: 3px solid #ff4365;;
+  border-top: 3px solid transparent;
+  border-radius: 50%; */
+  animation: spin 0.5s linear 0s infinite;
+}
+
+/* .completed {
+  font-size: 2rem;
+  color: #ff4365;;
+
+  animation: bigger 1s linear;
+} */
+
+@keyframes bigger {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(2);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+  

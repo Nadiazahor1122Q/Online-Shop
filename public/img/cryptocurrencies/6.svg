@@ -1,0 +1,23 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="212.559" height="56.711" viewBox="0 0 212.559 56.711">
+  <path id="Fill-1" d="M24.4,0,0,13.728V18.9L24.153,5.317l.25-.141.251.141L43.709,16.036l4.6-2.588Z" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-2" d="M16.8,16.708,4.47,9,0,11.794,12.334,19.5Z" transform="translate(0 9.904)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-3" d="M42.808,20.091,19.123,6,5,14.4l4.558,2.712,9.315-5.542.248-.147.249.147L38.249,22.8Z" transform="translate(5.502 6.603)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-4" d="M23.29,11,9,18.939,13.613,21.5,27.9,13.563Z" transform="translate(9.904 12.105)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-5" d="M19,12.369,23.746,15.4,27.4,13.065V7Z" transform="translate(20.908 7.703)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-6" d="M0,24.728V29.9L29.406,13.588,24.741,11Z" transform="translate(0 12.105)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-7" d="M5.056,15.2,8.4,13.528,3.346,11,0,12.673Z" transform="translate(0 12.105)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-8" d="M0,18.066,3.655,20.4,8.4,17.368,0,12Z" transform="translate(0 13.205)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-9" d="M19.713,26.728l-.259-.141L9.749,21.3,5,23.886,19.713,31.9l25.2-13.729V13L19.974,26.587Z" transform="translate(5.502 14.306)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-10" d="M18.345,18.2,23.4,15.673,20.057,14,15,16.528Z" transform="translate(16.506 15.406)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-11" d="M19,19.032,27.4,24.4V18.337L23.746,16Z" transform="translate(20.908 17.607)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-12" d="M0,21.712,24.155,35.8,48.31,21.712,43.662,19,24.41,30.231l-.255.149-.254-.149L4.649,19Z" transform="translate(0 20.908)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Fill-13" d="M44.958,33.205,38.9,20.779l-3.633,5.1v7.328H32V8h3.27V20.673L44.08,8h4l-6.994,9.877L48.8,33.205Z" transform="translate(35.214 8.803)" fill="#fff" fill-rule="evenodd"/>
+  <g id="编组" transform="translate(90.413 15.426)">
+    <path id="Fill-14" d="M50.911,33.069c-4.473,0-7.866-3.533-7.866-8.779V7.447h3.331V24.112c0,3.39,1.789,5.5,4.535,5.5s4.566-2.105,4.566-5.5V7.447h3.331V24.29c0,5.246-3.424,8.779-7.9,8.779" transform="translate(-43.045 -7.232)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Fill-16" d="M62.1,33.181a7.448,7.448,0,0,1-5.768-2.712c-2.16-2.5-2.129-5.317-2.129-10.207s-.031-7.708,2.129-10.206A7.447,7.447,0,0,1,62.1,7.344c4.041,0,7.064,2.748,7.836,7.815H66.545c-.524-2.569-2-4.353-4.442-4.353a4.115,4.115,0,0,0-3.239,1.534c-1.08,1.357-1.327,2.819-1.327,7.923s.247,6.566,1.327,7.923A4.116,4.116,0,0,0,62.1,29.72c2.437,0,3.949-1.784,4.473-4.353h3.363c-.741,5.067-3.856,7.815-7.836,7.815" transform="translate(-30.764 -7.344)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Fill-18" d="M77.524,32.855v-11.1H68.61v11.1H65.278V7.446H68.61V18.3h8.915V7.446h3.332V32.855Z" transform="translate(-18.579 -7.232)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Fill-20" d="M85.115,13.192,81.691,24.469h6.756Zm5.769,19.663-1.511-5.1H80.7l-1.512,5.1H75.645L83.7,7.446H86.38l8.051,25.408Z" transform="translate(-7.17 -7.232)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Fill-22" d="M87.54,32.855h3.331V7.446H87.54Z" transform="translate(5.919 -7.232)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Fill-24" d="M106.806,32.855,96.657,14.976V32.855H93.326V7.446H96.38L106.529,25.29V7.446h3.332V32.855Z" transform="translate(12.286 -7.232)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
